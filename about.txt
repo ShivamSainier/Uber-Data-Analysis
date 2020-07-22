@@ -1,0 +1,9 @@
+Uber Data Analysis Project
+
+1.) Import Libraries (Pandas,Numpy,Matplotlib,Seaborn)
+
+2.) Load CSV file into Memory
+
+3.) Convert Datetime and add some useful commands
+
+4.) Analysis 
